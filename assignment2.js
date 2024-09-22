@@ -2,8 +2,8 @@
 let a = 25;
 let b = 20;
 let c = 12;
-let d = "15";
-const e = 15;
+let d = "15";//d is a string
+const e = 15;//constant value
 //display the sum of (a,b,c,d) and constant (e)
 let sum = a + b + c + Number(d)+ e;
 console.log(sum);
